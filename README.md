@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dmsvk0217/dmsvk0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
