@@ -1,6 +1,6 @@
 ![dmsvk0217's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsvk0217&show_icons=true&theme=merko)
 
-## 💻 STACK - Full Stack Developer
+## 💻 Full Stack Developer
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
