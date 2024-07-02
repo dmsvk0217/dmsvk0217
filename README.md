@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
