@@ -13,4 +13,3 @@
 ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsvk5661)](https://solved.ac/dmsvk5661/)
